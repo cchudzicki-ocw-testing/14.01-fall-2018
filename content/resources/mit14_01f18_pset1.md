@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 14.01 Fall 2018 Problem Set 1
-type: OCWFile
 uid: 2401fe0c-770a-8ce3-8566-3de6af4aa392
 ---

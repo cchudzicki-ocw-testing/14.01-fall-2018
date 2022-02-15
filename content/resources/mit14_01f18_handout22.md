@@ -9,6 +9,5 @@ parent_title: Lecture Notes and Handouts
 parent_type: CourseSection
 resourcetype: Document
 title: MIT 14.01 F18 Lecture 22 Handout
-type: OCWFile
 uid: 49aa2165-f60d-34a3-c4e5-17021faefe9f
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 14.01 Fall 2018 Midterm Exam Solutions
-type: OCWFile
 uid: 57dc851c-a456-f703-9a17-b8c0de5f2ab1
 ---

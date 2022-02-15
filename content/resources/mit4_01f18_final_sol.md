@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 14.01 Fall 2018 Final Exam Solutions
-type: OCWFile
 uid: 8896b6ee-78d7-f911-390d-c43ec4f6dcf6
 ---

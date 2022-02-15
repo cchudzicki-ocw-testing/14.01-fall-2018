@@ -9,6 +9,5 @@ parent_title: Lecture Notes and Handouts
 parent_type: CourseSection
 resourcetype: Document
 title: 14.01 F18 Lecture 3 Handouts
-type: OCWFile
 uid: 52342e05-e930-927b-81ff-a858b0f8a2ac
 ---
