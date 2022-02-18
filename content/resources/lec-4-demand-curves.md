@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-Prof. Gruber begins the lecture by explaining how to derive demand curves. Other topics covered include elasticity of demand, income shifts, and effects of a price change. See [Handout 4]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+Prof. Gruber begins the lecture by explaining how to derive demand curves. Other topics covered include elasticity of demand, income shifts, and effects of a price change. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 4" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

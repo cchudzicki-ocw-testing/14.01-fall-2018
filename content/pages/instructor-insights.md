@@ -63,7 +63,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![165 students took this course when it was taught in Fall 2018.]({{< resource_file 26b7a799-f289-88a1-f2b9-cb1d73776067 >}})
+{{< resource 26b7a799-f289-88a1-f2b9-cb1d73776067 >}}
 
 ### Breakdown by Year
 

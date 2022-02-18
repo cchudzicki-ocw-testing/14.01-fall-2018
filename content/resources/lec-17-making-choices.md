@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-In this lecture, Prof. Gruber continues talking about factor markets by explaining how capital markets influence real world decisions. See [Handout 17]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+In this lecture, Prof. Gruber continues talking about factor markets by explaining how capital markets influence real world decisions. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 17" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

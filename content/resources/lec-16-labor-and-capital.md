@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-This lecture continues to explore factor markets, using minimum wage and the labor market as examples. See [Handout 16]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture.  
+This lecture continues to explore factor markets, using minimum wage and the labor market as examples. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 16" >}} for relevant graphs for this lecture.  
 
 **Instructor:** Prof. Jonathan Gruber

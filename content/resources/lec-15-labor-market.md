@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-This lecture covers factor markets, the markets that set the price for labor and capital. Prof. Gruber begins by talking about factor demand, then continues with factor supply. See [Handout 15]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This lecture covers factor markets, the markets that set the price for labor and capital. Prof. Gruber begins by talking about factor demand, then continues with factor supply. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 15" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
