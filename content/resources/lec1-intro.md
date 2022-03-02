@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-In this video, Prof. Gruber discusses the details of the course, what microeconomics is, and the concept of supply and demand. Please see {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 1" >}} for relevant graphs for this lecture.  
+In this video, Prof. Gruber discusses the details of the course, what microeconomics is, and the concept of supply and demand. Please see {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 1" %}} for relevant graphs for this lecture.  
 
 **Instructor:** Prof. Jonathan Gruber
