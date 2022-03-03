@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-This lecture continues the discussion on producer theory and short run and long run cost curves. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 6" >}} for relevant graphs for this lecture. 
+This lecture continues the discussion on producer theory and short run and long run cost curves. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 6" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

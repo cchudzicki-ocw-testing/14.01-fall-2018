@@ -26,6 +26,6 @@ video_metadata:
 Description
 -----------
 
-This video covers increasing savings, an important element of growth in an economy, as well as an introduction to international trade. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 18" >}} for relevant graphs for this lecture. 
+This video covers increasing savings, an important element of growth in an economy, as well as an introduction to international trade. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 18" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
