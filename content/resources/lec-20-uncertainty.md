@@ -31,3 +31,4 @@ Description
 This video explains the economic concept of decision making under uncertainty. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 20" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+

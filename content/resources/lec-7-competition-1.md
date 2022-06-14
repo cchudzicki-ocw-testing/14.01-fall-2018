@@ -31,3 +31,4 @@ Description
 This lecture finishes the discussion about costs from Lecture 6, and then the instructor explains perfect competition and short-run profit maximization. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 7" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+

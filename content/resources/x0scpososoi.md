@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01-principles-of-microeconomics-fall-2018/37c44f5f454f5af3b1333fe94acf2da4_x0scPosOsoI.srt
+file: /courses/14-01-principles-of-microeconomics-fall-2018/37c44f5f454f5af3b1333fe94acf2da4_x0scPosOsoI.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

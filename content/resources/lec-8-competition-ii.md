@@ -31,3 +31,4 @@ Description
 This lecture covers the topics of perfect competition, short run profit maximization, short run equilibrium, and long run competition. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 8" %}} for relevant gaphs for this lecture.
 
 **Instructor:** Prof. Jonathan Gruber
+

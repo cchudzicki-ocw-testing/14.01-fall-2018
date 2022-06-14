@@ -31,3 +31,4 @@ Description
 In this lecture, Prof. Gruber takes what the class has already learned and applies it to more realistic situations, specifically monopoly profit maximization and welfare effects. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 11" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+

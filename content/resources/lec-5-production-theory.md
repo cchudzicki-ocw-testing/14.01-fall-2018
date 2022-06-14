@@ -31,3 +31,4 @@ Description
 This video introduces the second unit of the course about producer theory. Topics include the production function, short run production, long run production, rates of technical substitution, returns to scale, and productivity. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 5" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+

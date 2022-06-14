@@ -31,3 +31,4 @@ Description
 This lecture covers the fundamentals of welfare economics, including how competition maximizes welfare and government interventions. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 10" %}} for relevant graphs for this lecture.
 
 **Instructor:** Prof. Jonathan Gruber
+

@@ -31,3 +31,4 @@ Description
 In this lecture, Prof. Gruber introduces the idea of equity and efficiency, including choosing the socially optimal allocation, inequality, and sources of leakage. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 21" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+
