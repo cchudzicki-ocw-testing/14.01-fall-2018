@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains information about the pedagogy of the class and
+  insights by the instructor. '
 draft: false
 layout: instructor_insights
 learning_resource_types: []
