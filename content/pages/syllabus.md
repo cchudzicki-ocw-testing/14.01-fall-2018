@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains basic information about the structure of the course. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

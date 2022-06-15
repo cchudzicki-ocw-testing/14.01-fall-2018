@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This sections contains documents used during the TA-led sessions for
+  the course. '
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
